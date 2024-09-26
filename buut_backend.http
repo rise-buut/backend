@@ -1,0 +1,6 @@
+@buut_backend_HostAddress = http://localhost:5217
+
+GET {{buut_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
